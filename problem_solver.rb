@@ -1,0 +1,4 @@
+class ProblemSolver
+dev solve_easy_problem
+end
+end
